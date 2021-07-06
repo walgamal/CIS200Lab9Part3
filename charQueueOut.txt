@@ -1,0 +1,28 @@
+Char Stack
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Queue is empty. Peek NOT Successful
+Remove			ERROR: Queue underflow. Nothing was removed.
+Add r			r was added.
+Print			The stack contains: r
+Length			The length of the stack is 1.
+Top			Peek Successful. Top: r
+Add Q			Q was added.
+Add W			W was added.
+Add q			q was added.
+Add n			n was added.
+Print			The stack contains: r Q W q n
+Length			The length of the stack is 5.
+Top			Peek Successful. Top: r
+Add L			ERROR: Queue overflow. L was NOT added.
+Remove			r was removed.
+Remove			Q was removed.
+Print			The stack contains: W q n
+Length			The length of the stack is 3.
+Top			Peek Successful. Top: W
+Remove			W was removed.
+Remove			q was removed.
+Remove			n was removed.
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Queue is empty. Peek NOT Successful

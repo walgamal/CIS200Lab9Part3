@@ -1,0 +1,28 @@
+R Q
+P
+L
+T
+R
+A 5.8
+P
+L
+T
+A 9.1
+A 3.4
+A 7.6
+A 1.1
+P
+L
+T
+A 6.7
+R
+R
+P
+L
+T
+R
+R
+R
+P
+L
+T

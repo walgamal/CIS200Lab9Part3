@@ -1,0 +1,28 @@
+Integer Queue
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Queue is empty. Peek NOT Successful
+Remove			ERROR: Queue underflow. Nothing was removed.
+Add 21			21 was added.
+Print			The stack contains: 21
+Length			The length of the stack is 1.
+Top			Peek Successful. Top: 21
+Add 5			5 was added.
+Add 16			16 was added.
+Add 7			7 was added.
+Add 31			31 was added.
+Print			The stack contains: 21 5 16 7 31
+Length			The length of the stack is 5.
+Top			Peek Successful. Top: 21
+Add 20			ERROR: Queue overflow. 20 was NOT added.
+Remove			21 was removed.
+Remove			5 was removed.
+Print			The stack contains: 16 7 31
+Length			The length of the stack is 3.
+Top			Peek Successful. Top: 16
+Remove			16 was removed.
+Remove			7 was removed.
+Remove			31 was removed.
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Queue is empty. Peek NOT Successful

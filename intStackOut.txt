@@ -1,0 +1,28 @@
+Integer Stack
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Stack is empty. Peek NOT Successful
+Remove			ERROR: Stack underflow. Nothing was removed.
+Add 21			21 was added.
+Print			The stack contains: 21 
+Length			The length of the stack is 1.
+Top			Peek Successful. Top: 21
+Add 2			2 was added.
+Add 16			16 was added.
+Add 4			4 was added.
+Add 9			9 was added.
+Print			The stack contains: 21 2 16 4 9 
+Length			The length of the stack is 5.
+Top			Peek Successful. Top: 9
+Add 66			ERROR: Stack overflow. 66 was NOT added.
+Remove			9 was removed.
+Remove			4 was removed.
+Print			The stack contains: 21 2 16 
+Length			The length of the stack is 3.
+Top			Peek Successful. Top: 16
+Remove			16 was removed.
+Remove			2 was removed.
+Remove			21 was removed.
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Stack is empty. Peek NOT Successful

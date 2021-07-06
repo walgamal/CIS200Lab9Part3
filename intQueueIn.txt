@@ -1,0 +1,28 @@
+I Q
+P
+L
+T
+R
+A 21
+P
+L
+T
+A 5
+A 16
+A 7
+A 31
+P
+L
+T
+A 20
+R
+R
+P
+L
+T
+R
+R
+R
+P
+L
+T

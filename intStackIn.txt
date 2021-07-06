@@ -1,0 +1,28 @@
+I S
+P
+L
+T
+R
+A 21
+P
+L
+T
+A 2
+A 16
+A 4
+A 9
+P
+L
+T
+A 66
+R
+R
+P
+L
+T
+R
+R
+R
+P
+L
+T

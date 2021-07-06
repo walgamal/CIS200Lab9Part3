@@ -1,0 +1,28 @@
+Real Number Queue
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Queue is empty. Peek NOT Successful
+Remove			ERROR: Queue underflow. Nothing was removed.
+Add 5.8			5.8 was added.
+Print			The stack contains: 5.8
+Length			The length of the stack is 1.
+Top			Peek Successful. Top: 5.8
+Add 9.1			9.1 was added.
+Add 3.4			3.4 was added.
+Add 7.6			7.6 was added.
+Add 1.1			1.1 was added.
+Print			The stack contains: 5.8 9.1 3.4 7.6 1.1
+Length			The length of the stack is 5.
+Top			Peek Successful. Top: 5.8
+Add 6.7			ERROR: Queue overflow. 6.7 was NOT added.
+Remove			5.8 was removed.
+Remove			9.1 was removed.
+Print			The stack contains: 3.4 7.6 1.1
+Length			The length of the stack is 3.
+Top			Peek Successful. Top: 3.4
+Remove			3.4 was removed.
+Remove			7.6 was removed.
+Remove			1.1 was removed.
+Print			The stack contains: Nothing!
+Length			The length of the stack is 0.
+Top			ERROR: Queue is empty. Peek NOT Successful
